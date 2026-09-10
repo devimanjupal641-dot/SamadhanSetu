@@ -431,7 +431,7 @@ export const LoginPage: React.FC<Props> = ({
                     <p className="font-bold text-blue-950 mt-0.5">{DEMO_CREDENTIALS[selectedRole].label}</p>
                   </div>
                   <span className="text-[10px] font-bold bg-blue-100 text-blue-800 px-2 py-0.5 rounded">
-                    SIH Ready
+                    Verified Profile
                   </span>
                 </div>
               )}

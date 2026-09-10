@@ -168,7 +168,7 @@ export function updateIndustrySupport(req: AuthenticatedRequest, res: Response) 
         university_id: adoption.university_user_id,
         university_name: adoption.university_name,
         template_type: 'Standard Joint IP',
-        template_title: 'Collaborative Civic Innovation & IP Co-Ownership Agreement (SIH-Standard)',
+        template_title: 'Collaborative Civic Innovation & IP Co-Ownership Agreement (National Model)',
         terms_summary: '50-50 Joint patent rights on municipal implementation. University retains academic publishing rights. Industry gets non-exclusive commercial deployment rights. Citizen benefit clauses are immutable.',
         university_acknowledged: false,
         industry_acknowledged: commitmentStage === 'Funded',

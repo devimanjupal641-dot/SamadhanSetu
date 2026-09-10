@@ -53,7 +53,7 @@ app.get('/api/health', (req: Request, res: Response) => {
   const db = getDatabase();
   res.json({
     status: 'online',
-    platform: 'SamadhanSetu — SIH26043 Engine',
+    platform: 'SamadhanSetu National Platform Engine',
     services: {
       apiGateway: 'active',
       submissionService: 'active',

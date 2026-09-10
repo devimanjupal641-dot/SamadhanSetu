@@ -105,7 +105,7 @@ export const MoUModal: React.FC<Props> = ({ mou, userRole, onAcknowledged, onClo
           {/* Agreement Terms Box */}
           <div className="bg-gray-50 p-4 rounded-xl border border-gray-200">
             <span className="text-xs font-bold text-gray-700 block mb-1">
-              Standard SIH IP & Implementation Terms:
+              Standard IP & Implementation Terms:
             </span>
             <p className="text-xs text-gray-600 leading-relaxed font-serif">
               "{mou.terms_summary}"

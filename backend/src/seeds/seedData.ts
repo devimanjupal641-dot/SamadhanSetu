@@ -479,7 +479,7 @@ export async function runDatabaseSeed() {
     university_id: 'usr_univ_bitm',
     university_name: 'BIT Mesra Ranchi',
     template_type: 'Standard Joint IP',
-    template_title: 'Collaborative Civic Innovation & IP Co-Ownership Agreement (SIH-Standard)',
+    template_title: 'Collaborative Civic Innovation & IP Co-Ownership Agreement (National Model)',
     terms_summary: 'Joint patent rights on municipal water filter technology. University retains academic publishing rights. Tata Trusts deploys across 50 eastern Indian villages royalty-free. Citizen public good usage guaranteed.',
     university_acknowledged: true,
     university_acknowledged_at: new Date(Date.now() - 86400000 * 2).toISOString(),
